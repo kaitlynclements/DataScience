@@ -8,4 +8,4 @@
 
 ...
 
-**Term Project:** Global Socioeconomic Analysis
+**Term Project:** Global Socioeconomic Analysis, Apply DS to global problems
