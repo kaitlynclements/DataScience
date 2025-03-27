@@ -6,6 +6,9 @@
 
 **MiniProject3:** Cleaning and Wrangling Data
 
+**MiniProject4:** Data Visualization
+
+**MiniProject5:** Classification (Training & Predicting)
 ...
 
 **Term Project:** Global Socioeconomic Analysis, Apply DS to global problems
