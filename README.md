@@ -13,6 +13,7 @@
 **MiniProject6:** Regression Analysis
 
 **MiniProject7:** Clustering
+
 ...
 
 **Term Project:** Global Socioeconomic Analysis, Apply DS to global problems
