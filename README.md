@@ -14,6 +14,8 @@
 
 **MiniProject7:** Clustering
 
-...
+**MiniProject8:** Statistical Inference
+
+**MiniProject9:** Statistical Inference in R
 
 **Term Project:** Global Socioeconomic Analysis, Apply DS to global problems
